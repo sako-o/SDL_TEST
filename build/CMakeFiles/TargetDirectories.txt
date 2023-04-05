@@ -1,0 +1,2 @@
+C:/Users/user/Development/cpp/SDL_TEST/build/CMakeFiles/edit_cache.dir
+C:/Users/user/Development/cpp/SDL_TEST/build/CMakeFiles/rebuild_cache.dir
